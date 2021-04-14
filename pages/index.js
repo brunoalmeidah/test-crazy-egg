@@ -7,6 +7,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0034/9897.js" async="async" ></script>
       </Head>
 
       <main className={styles.main}>
